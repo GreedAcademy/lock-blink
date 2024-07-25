@@ -1,0 +1,8 @@
+{
+  "rules": [
+    {
+      "pathPattern": "/lock",
+      "apiPath": "/blink/lock"
+    }
+  ]
+}
